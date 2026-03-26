@@ -184,6 +184,23 @@ Le dashboard est organisé autour de 6 vues :
 - comparaison année N vs N-1
 - drill-down catégorie → produit
 
+## Aperçu visuel
+
+### Vue d’ensemble du dashboard
+![Vue d’ensemble](https://github.com/AmelielN/Tableau-de-bord-de-performance-e-commerce/blob/main/screenshots/slide1_overview.png)
+
+### Analyse des catégories
+![Analyse des catégories](https://github.com/AmelielN/Tableau-de-bord-de-performance-e-commerce/blob/main/screenshots/slide2_performance-categorie.png)
+![Analyse des ventes](https://github.com/AmelielN/Tableau-de-bord-de-performance-e-commerce/blob/main/screenshots/slide3_analyse_croissance.png)
+
+### Priorisation des catégories
+![Priorisation](https://github.com/AmelielN/Tableau-de-bord-de-performance-e-commerce/blob/main/screenshots/slide5_scatter-profitabilite.png)
+
+### Zoom produit
+![Zoom produit](https://github.com/AmelielN/Tableau-de-bord-de-performance-e-commerce/blob/main/screenshots/slide6_analyse-detail-produit.png)
+
+###Conclusion
+![Conclusion & recommendantions](https://github.com/AmelielN/Tableau-de-bord-de-performance-e-commerce/blob/main/screenshots/slide7_conclusion.png)
 
 ---
 
@@ -259,7 +276,8 @@ C’est exactement le type d’analyse que je souhaite développer dans un conte
 
 ## Fichiers du dépôt
 
-- `dashboard/` → captures ou export du dashboard
+- `screenshots/` → captures ou export du dashboard
+- `powerbi/`  → dashboard powerbi et export du dashboard PDF
 - `README.md` → présentation du projet
 
 ---
